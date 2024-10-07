@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   fast_gbk: ^1.0.0
   html: ^0.15.0
-  http: ^1.1.0
+  http: ^0.13.0
 
 dev_dependencies:
 
